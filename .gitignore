@@ -44,3 +44,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+/.vs/slnx.sqlite
+/.vs/git-hooks-example/FileContentIndex
+/.vs/git-hooks-example/config
+/.vs
